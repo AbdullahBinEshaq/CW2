@@ -1,0 +1,18 @@
+READ ME - Matlab codes
+
+objectdetection.m is main code used to obtain objectd etection data from exported .ns2 files. 
+
+loadBatchAsFourDimensionalArray.m is four dimensional array batch to loaded.
+
+helperCIFAR10Data.m is calling CIFA10Data.
+
+load1.m is CIFAR-10 Training and Test data.
+
+convertLabelsToCategorical.m is code to covert the load1.m + batches
+
+cameraobject.m is code to get the image from webcam.
+
+Images folder is sign stop examples
+
+Video link: 
+https://youtu.be/lXvzJmvTdA0
